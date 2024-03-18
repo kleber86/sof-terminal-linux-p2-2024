@@ -24,3 +24,17 @@ PE Pernambuco
 PB Paraiba
 RN Rio Grande do Norte
 ```
+
+Diferenças entre atquivos: `diff cidades.txt estados.txt`
+```bash
+--- cidades.txt
++++ estados.txt
+@@ -1,3 +1,5 @@
+ PE Pernambuco
+ PB Paraiba
+ RN Rio Grande do Norte
++AL Alagoas
++SE Sergipe
+```
+
+Adicionando dados no arquivo: `patch -p0 cidades.txt estados.txt`

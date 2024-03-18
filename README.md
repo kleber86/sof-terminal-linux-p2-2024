@@ -11,7 +11,7 @@
 - [x] Comandos pipe
 - [x] Links
 - [x] Manipulação de caracteres
-- [ ] Comandos de comparação
+- [x] Comandos de comparação
 - [ ] Gerenciando permissões de usuário
 - [ ] Manipulando variável PATH
 - [ ] Comandos de rede parte 1
