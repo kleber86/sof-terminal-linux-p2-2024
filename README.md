@@ -12,7 +12,7 @@
 - [x] Links
 - [x] Manipulação de caracteres
 - [x] Comandos de comparação
-- [ ] Gerenciando permissões de usuário
+- [x] Gerenciando permissões de usuário
 - [ ] Manipulando variável PATH
 - [ ] Comandos de rede parte 1
 - [ ] Comandos de rede parte 2

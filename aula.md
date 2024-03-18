@@ -38,3 +38,7 @@ Diferenças entre atquivos: `diff cidades.txt estados.txt`
 ```
 
 Adicionando dados no arquivo: `patch -p0 cidades.txt estados.txt`
+
+Mostra uma lista de users criados: `cat /etc/passwd` 
+
+Mostra uma lista de grupos criados: `cat /etc/group`
