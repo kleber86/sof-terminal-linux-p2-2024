@@ -10,7 +10,7 @@
 - [x] Comandos de redirecionamento
 - [x] Comandos pipe
 - [x] Links
-- [ ] Manipulação de caracteres
+- [x] Manipulação de caracteres
 - [ ] Comandos de comparação
 - [ ] Gerenciando permissões de usuário
 - [ ] Manipulando variável PATH
