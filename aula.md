@@ -42,3 +42,7 @@ Adicionando dados no arquivo: `patch -p0 cidades.txt estados.txt`
 Mostra uma lista de users criados: `cat /etc/passwd` 
 
 Mostra uma lista de grupos criados: `cat /etc/group`
+
+Caminhos da variável $PATH: `echo $PATH`
+
+Adicionar caminho a variável PATH: `PATH=/root/backup`

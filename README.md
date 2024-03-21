@@ -13,7 +13,7 @@
 - [x] Manipulação de caracteres
 - [x] Comandos de comparação
 - [x] Gerenciando permissões de usuário
-- [ ] Manipulando variável PATH
+- [x] Manipulando variável PATH
 - [ ] Comandos de rede parte 1
 - [ ] Comandos de rede parte 2
 - [ ] Manipulando pacotes
