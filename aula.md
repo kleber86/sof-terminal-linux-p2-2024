@@ -53,3 +53,12 @@ Saber o endereço IP: `ifconfig` ou `ip addr show`
 
 Comando ping: `ping www.google.com.bkr`
 
+Ver informações de um dominio: `nslookup www.sportrecife.com.br`
+
+Traçar caminho até um dominio: `traceroute www.sportrecife.com.br`
+
+Rastrear as portas utilizadas: `netstat -s`
+
+Tabela de roteamento: `netstast -rn`
+
+Testar comunicação: `telnet 0.0.0.0 90`
