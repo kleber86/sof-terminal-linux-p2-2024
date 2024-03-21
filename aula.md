@@ -62,3 +62,13 @@ Rastrear as portas utilizadas: `netstat -s`
 Tabela de roteamento: `netstast -rn`
 
 Testar comunicação: `telnet 0.0.0.0 90`
+
+[Debian] Comando para consultar a base de dados dos repositorios: `apt-get update`
+
+[Debian] Comando para atualizar o SO: `apt-get upgrade`
+
+[Debian] Comando para pesquisar os pacotes: `apt-cache search`
+
+[Debian] Comando para instalar pacote: `apt-get install nome_pacote`
+
+[Debian] Comando para verificar a versão do pacote: `apt-config -v`

@@ -16,6 +16,6 @@
 - [x] Manipulando variável PATH
 - [x] Comandos de rede parte 1
 - [x] Comandos de rede parte 2
-- [ ] Manipulando pacotes
+- [x] Manipulando pacotes
 - [ ] Comandos para sistema de arquivos
 - [ ] Conclusão
