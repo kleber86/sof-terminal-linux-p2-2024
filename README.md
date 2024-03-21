@@ -14,7 +14,7 @@
 - [x] Comandos de comparação
 - [x] Gerenciando permissões de usuário
 - [x] Manipulando variável PATH
-- [ ] Comandos de rede parte 1
+- [x] Comandos de rede parte 1
 - [ ] Comandos de rede parte 2
 - [ ] Manipulando pacotes
 - [ ] Comandos para sistema de arquivos

@@ -46,3 +46,10 @@ Mostra uma lista de grupos criados: `cat /etc/group`
 Caminhos da variável $PATH: `echo $PATH`
 
 Adicionar caminho a variável PATH: `PATH=/root/backup`
+
+Saber o nome do host: `hostname`
+
+Saber o endereço IP: `ifconfig` ou `ip addr show`
+
+Comando ping: `ping www.google.com.bkr`
+
