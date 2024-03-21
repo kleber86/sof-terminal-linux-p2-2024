@@ -17,5 +17,5 @@
 - [x] Comandos de rede parte 1
 - [x] Comandos de rede parte 2
 - [x] Manipulando pacotes
-- [ ] Comandos para sistema de arquivos
-- [ ] Conclusão
+- [x] Comandos para sistema de arquivos
+- [x] Conclusão
